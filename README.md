@@ -4,7 +4,7 @@ Este repositório tem como intuito a entrega do desafio "Criando seu primeiro To
 
 Nele encontra-se o código usado para criar um primeiro token na rede de teste da Ethereum, a Sepolia. 
 
--> Algumas infomrações sobre o token
+-> Algumas informações sobre o token
 
 - Nome: DSS Coin
 - Símbolo: DSS
